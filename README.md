@@ -1,25 +1,34 @@
-ARGUSCOIN integration/staging tree
-================================
 
-http://www.arguscoin.org
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 ARGUSCOIN Developers
+
 
 What is ARGUSCOIN?
 ----------------
+<b>Argus coin Bitcointalk Thread</b><br>
 
-ARGUSCOIN is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+<br>
 
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+https://bitcointalk.org/index.php?topic=1804278.0
 
-For more information, as well as an immediately useable, binary version of
-the ARGUSCOIN client sofware, see http://www.arguscoin.org.
+<br>
+
+<b>ARGUSCOIN</b> is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.<br>
+
+<b>Specifications</b><br>
+
+Algorithm :-Scrypt <br>                                                                                       
+Block halving :- 512000 blocks<br>
+Total coin supply:- 22.4 Million coins<br>
+18 coins per block<br>
+60 secs block target<br>
+Type PoW<br>
+
+Argus Foundation Fund<br>
+18% ( Premine )<br>
+RPC port - 10838<br>
+P2P port - 10837<br>
+
+
 
 License
 -------
